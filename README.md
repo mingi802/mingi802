@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark=&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=shark=&color=auto&height=300&section=header&text=HELLO%20WORLD!&fontSize=90&animation=twinkling)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=mingi802)](https://github.com/mingi802)
 <br>
