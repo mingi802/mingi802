@@ -23,7 +23,7 @@
 ```java
 System.out.print("Hello World!")
 ```
->안녕하시기
+>안녕하세요
 
 - 1번
 - 2번
